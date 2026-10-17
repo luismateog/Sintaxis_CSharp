@@ -1,0 +1,14 @@
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\bin\Debug\net10.0\01-tipos-de-datos.exe
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\bin\Debug\net10.0\01-tipos-de-datos.deps.json
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\bin\Debug\net10.0\01-tipos-de-datos.runtimeconfig.json
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\bin\Debug\net10.0\01-tipos-de-datos.dll
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\bin\Debug\net10.0\01-tipos-de-datos.pdb
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.AssemblyInfoInputs.cache
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.AssemblyInfo.cs
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.csproj.CoreCompileInputs.cache
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.dll
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\refint\01-tipos-de-datos.dll
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.pdb
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\01-tipos-de-datos.genruntimeconfig.cache
+C:\proyectos\C#\ejercicios2\01-tipos-de-datos\obj\Debug\net10.0\ref\01-tipos-de-datos.dll

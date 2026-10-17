@@ -1,0 +1,14 @@
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\bin\Debug\net10.0\02-area-perimetro-rectangulo.exe
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\bin\Debug\net10.0\02-area-perimetro-rectangulo.deps.json
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\bin\Debug\net10.0\02-area-perimetro-rectangulo.runtimeconfig.json
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\bin\Debug\net10.0\02-area-perimetro-rectangulo.dll
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\bin\Debug\net10.0\02-area-perimetro-rectangulo.pdb
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.AssemblyInfoInputs.cache
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.AssemblyInfo.cs
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.csproj.CoreCompileInputs.cache
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.dll
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\refint\02-area-perimetro-rectangulo.dll
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.pdb
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\02-area-perimetro-rectangulo.genruntimeconfig.cache
+C:\proyectos\C#\ejercicios2\02-area-perimetro-rectangulo\obj\Debug\net10.0\ref\02-area-perimetro-rectangulo.dll

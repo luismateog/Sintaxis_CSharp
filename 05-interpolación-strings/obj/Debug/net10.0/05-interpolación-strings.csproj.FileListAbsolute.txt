@@ -1,0 +1,14 @@
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\bin\Debug\net10.0\05-interpolación-strings.exe
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\bin\Debug\net10.0\05-interpolación-strings.deps.json
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\bin\Debug\net10.0\05-interpolación-strings.runtimeconfig.json
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\bin\Debug\net10.0\05-interpolación-strings.dll
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\bin\Debug\net10.0\05-interpolación-strings.pdb
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.AssemblyInfoInputs.cache
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.AssemblyInfo.cs
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.csproj.CoreCompileInputs.cache
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.dll
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\refint\05-interpolación-strings.dll
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.pdb
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\05-interpolación-strings.genruntimeconfig.cache
+C:\proyectos\C#\Sintaxis_CSharp\05-interpolación-strings\obj\Debug\net10.0\ref\05-interpolación-strings.dll

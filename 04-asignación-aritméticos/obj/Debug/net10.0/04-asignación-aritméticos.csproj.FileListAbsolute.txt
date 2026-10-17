@@ -1,0 +1,14 @@
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\bin\Debug\net10.0\04-asignación-aritméticos.exe
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\bin\Debug\net10.0\04-asignación-aritméticos.deps.json
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\bin\Debug\net10.0\04-asignación-aritméticos.runtimeconfig.json
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\bin\Debug\net10.0\04-asignación-aritméticos.dll
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\bin\Debug\net10.0\04-asignación-aritméticos.pdb
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.AssemblyInfoInputs.cache
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.AssemblyInfo.cs
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.csproj.CoreCompileInputs.cache
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.dll
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\refint\04-asignación-aritméticos.dll
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.pdb
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\04-asignación-aritméticos.genruntimeconfig.cache
+C:\proyectos\C#\Sintaxis_CSharp\04-asignación-aritméticos\obj\Debug\net10.0\ref\04-asignación-aritméticos.dll
